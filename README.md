@@ -34,7 +34,7 @@ This template is ideal for creative agencies, freelancers, or anyone looking to 
 - CSS3 (Grid & Flexbox Layouts)
 - Font Awesome
 - Responsive Design (Media Queries)
-- js
+- JS
 
 ---
 
