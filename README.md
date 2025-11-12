@@ -11,7 +11,7 @@ This template is ideal for creative agencies, freelancers, or anyone looking to 
 
 🚀 Live Demo
 
-👉 https://github.com/ahmednabil22224/Designify-Template
+👉 [https://github.com/ahmednabil22224/Designify-Template](https://ahmednabil22224.github.io/Designify-Template/)
 
 ---
 
