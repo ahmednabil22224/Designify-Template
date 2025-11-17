@@ -204,25 +204,4 @@ document.addEventListener("click", (e) => {
     }
   }
 });
-// menu.onclick = (e) => {
-//     e.stopPropagation();
-// }
-///////////////////////Show Links bar/////////////////////////
-let linkref = document.querySelectorAll(".link a");
-if (localStorage.getItem("activeLink") !== null) {
-  linkref.forEach((ele) => {
-    ele.classList.remove("active");
-  });
-  document
-    .querySelector(`[data-link="${localStorage.getItem("activeLink")}"]`)
-    .classList.add("active");
-}
-linkref.forEach((ele) => {
-  ele.addEventListener("click", (e) => {
-    linkref.forEach((ele) => {
-      ele.classList.remove("active");
-    });
-    e.target.classList.add("active");
-    localStorage.setItem("activeLink", e.target.dataset.link);
-  });
-});
+
