@@ -95,7 +95,10 @@ This template is ideal for creative agencies, freelancers, or anyone looking to 
 ![Tablet Preview](./images/preview-tablet.png)
 
 **Mobile View**
-![Mobile Preview](./images/preview-mobile.png)
+<div align="center">
+  <img src="./images/preview-mobile.png" width="400" alt="Mobile Screenshot" />
+</div>
+
 =======
 
 ---
